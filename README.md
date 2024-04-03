@@ -1,4 +1,4 @@
-- Hi, I’m @f0nephreak
+- Hi, I’m Tasmiya
 - I’m interested in machine learning, other CySe related things
 - I’m currently learning Java (mainly NLP and searching)
 - I'm comfortable with any pronouns
