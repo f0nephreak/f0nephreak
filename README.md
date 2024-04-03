@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @f0nephreak
-- 👀 I’m interested in machine learning, other CySe related things
-- 🌱 I’m currently learning Java (mainly NLP and searching)
-- 😄 Pronouns: Any pronouns
+- Hi, I’m @f0nephreak
+- I’m interested in machine learning, other CySe related things
+- I’m currently learning Java (mainly NLP and searching)
+- I'm comfortable with any pronouns
 - ⚡ LinkedIn: www.linkedin.com/in/tasmiya-firdous-5041092b5
 - ⚡ Email: tasmiyaf69@gmail.com
 <!---
